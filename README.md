@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">Localportal</h1>
   <p align="center">
-    Turn Your Local or Cloud Compute Into A Remote Workstation
+    Turn Your Local or Cloud Compute Into A Remote Workstation (Opensourcing on 5000th star)
     <br />
     <br />
     <a href="https://twitter.com/localportalhq">
