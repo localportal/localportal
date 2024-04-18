@@ -2,9 +2,9 @@
   <a href="https://localportal.io">
     <img src="https://storage.localportal.io/logosmall.png" width="50" />
   </a>
-  <h1 align="center">Localportal</h1>
+  <h1 align="center">Localportal (Opensourcing on 5000th star)</h1>
   <p align="center">
-    Turn Your Local or Cloud Compute Into A Remote Workstation (Opensourcing on 5000th star)
+    Turn Your Local or Cloud Compute Into A Remote Workstation.
     <br />
     <br />
     <a href="https://twitter.com/localportalhq">
